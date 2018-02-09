@@ -16,7 +16,7 @@ resume_contact_email:           "patryk_nowak@yahoo.pl"
 resume_contact_telephone:       "+48 570 012 280"
 resume_contact_address:         "Niepodleglosci 97a, Wieliszew, POLAND"
 resume_header_contact_info: "Niepodleglosci 97a, Wieliszew, POLAND | +48 570 012 280 | patryk_nowak@yahoo.pl"
-resume_header_intro: "<p>I'm Backend Developer, that strives to develop efficient and beautiful code. I'm not afraid of any language, but Elixir is the language of my choice.</p>"
+resume_header_intro: "<p>I'm Backend Developer, that strives to develop efficient and beautiful code. I'm not afraid of any language, but Elixir is the language of my choice. I'm interested to work remotely because of my health issues (I have Colitis Ulcerosa since I was 16).</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -35,6 +35,7 @@ resume_section_skills:          true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/patnowak"
+  resume_stackoverflow_url:     "https://stackoverflow.com/users/3741729/patnowak"
   resume_twitter_url:           "http://twitter.com/_pat_nowak_"
   resume_linkedin_url:          "https://www.linkedin.com/in/patryk-nowak-b487a7b2"
 resume_print_social_links:      true
