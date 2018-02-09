@@ -1,7 +1,7 @@
 - company: StepStone Services
   position: Elixir Developer
   duration: Jan, 2017 &mdash; Present
-  summary: Development in Elixir & Phoenix of backend service for web and native clients. Backend application is built of REST API, channels for websocket connections, cron scheduler and RabbitMQ workers. Also we took advantage of Erlang VM for caching.
+  summary: Development in Elixir & Phoenix of backend service for web and native clients. Backend application is built of REST API, channels for websocket connections, cron scheduler and RabbitMQ workers. Also we take advantage of Erlang VM for caching.
 
 - company: StepStone Services
   position: ColdFusion / PHP Developer
