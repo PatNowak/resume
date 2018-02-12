@@ -22,10 +22,10 @@
 
 - project: Railo Migration
   role: ColdFusion Developer
-  duration: Oct 2015 &mdash; Feb 2015
+  duration: Oct 2015 &mdash; Feb 2016
   description: Company decided to switch from Adobe ColdFusion 9 servers to Railo open source engine. It required much effort, because of syntax differences and deprecated or new functions. Also we used this opportunity to refactor the code and to organize its structure, where's possible.
 
 - project: PNet Migration
   role: ColdFusion Developer
-  duration: Oct 2015 &mdash; Feb 2015
+  duration: Mar 2015 &mdash; Sep 2015
   description: Company acquired PNet platform and it required much work to adjust the existing source code to PNE't needs. This migration touched almost every part of the codebase.
