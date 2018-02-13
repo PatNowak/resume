@@ -15,7 +15,7 @@
   url: "https://hex.pm/packages/random_user_api"
   description: Simple open source RandomUserApi client for Elixir.
 
-- project: Quality SEO Manager
+- project: SEO Project
   role: PHP Developer
   duration: Mar 2016 &mdash; Dec 2016
   description: Introducing first PHP microservice in the company, which was responsible for measuring how urls exposed for robots to crawl are valid based on provided factors. PHP service was a backend for web app to display the data, which were acquired from another's team big data computations. Also our team prepared a foundation for any other PHP microservice by creating a pluggable common library, which contains everything that's needed to start development of new service.
@@ -25,7 +25,7 @@
   duration: Oct 2015 &mdash; Feb 2015
   description: Company decided to switch from Adobe ColdFusion 9 servers to Railo open source engine. It required much effort, because of syntax differences and deprecated or new functions. Also we used this opportunity to refactor the code and to organize its structure, where's possible.
 
-- project: PNet Migration
+- project: New Site Migration
   role: ColdFusion Developer
   duration: Oct 2015 &mdash; Feb 2015
-  description: Company acquired PNet platform and it required much work to adjust the existing source code to PNE't needs. This migration touched almost every part of the codebase.
+  description: Company acquired new platform and it required much work to adjust the existing source code to platform's needs. This migration touched almost every part of the codebase.
