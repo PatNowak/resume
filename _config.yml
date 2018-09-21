@@ -18,21 +18,25 @@ resume_contact_address:         "Niepodleglosci 97a, Wieliszew, POLAND"
 resume_header_contact_info: "Niepodleglosci 97a, Wieliszew, POLAND | +48 570 012 280 | patryk_nowak@yahoo.pl"
 resume_header_intro: "<p>I'm Backend Developer, that strives to develop efficient, beautiful and readable code, but also to get things done. I'm working 100% remotely.</p>
 
-                        <p>I' working using</p>
+                        <p>I' working using:</p>
                       <ul>
                         <li>PHP</li>
+                        <li>Symfony</li>
                         <li>Python</li>
                       </ul>
 
-                        <p>Also I know well</p>
+                        <p>Also I know well:</p>
                       <ul>
                         <li>Elixir</li>
+                        <li>Phoenix framework</li>
                       </ul>
 
-                        <p>Yet I could code also in</p>
+                        <p>Yet I could code also in:</p>
                       <ul>
                         <li>Ruby</li>
-                        <li>Backend javascript with Node.js</li>
+                        <li>Rails</li>
+                        <li>Javascript</li>
+                        <li>Express</li>
                       </ul>"
 
 # use "yes" to display the email contact button,
