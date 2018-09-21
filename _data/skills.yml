@@ -1,11 +1,11 @@
 - skill: Elixir
-  description: I'm very comfortable with Elixir, Phoenix, Ecto and other libraries. Also I'm supporting this ecosystem with my own libraries. I'm member of ElixirForum and I'm active on Elixir Slack.
+  description: I'm very comfortable with Elixir, Phoenix, Ecto and other libraries. Also I'm supporting this ecosystem with my own libraries. I'm member of ElixirForum.
 
 - skill: Python
-  description: I learnt Python for fun and I'm familiar with its explicit approach combined with readable code. I used it only for small projects for my own purpose. I know Flask and Django.
+  description: I learnt Python for fun and I'm familiar with its explicit approach combined with readable code. I know Flask and Django. I'm using Python for scripts and for private projects.
 
 - skill: PHP
-  description: I'm ok working in PHP7.
+  description: I'm comfortable with PHP7, Symfony, Silex and Composer. 
 
 - skill: ColdFusion
   description: I'm comfortable with ColdFusion - Adobe's and Railo. I'm certified ColdFusion expert with Adobe ColdFusion 9 ACE certificate.
