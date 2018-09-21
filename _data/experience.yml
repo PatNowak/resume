@@ -1,19 +1,34 @@
+- company: Sirvoy Ltd
+  position: Backend Developer
+  duration: Jul, 2018 &mdash; Present
+  summary: Client to whom I'm fully dedicated right now. Development in PHP7 + Symfony and scripting in Python.
+
+- company: Axoncode
+  position: Owner
+  duration: Jul, 2018 &mdash; Present
+  summary: Backend development specialized in Elixir, PHP and Python. Yet I can code in various other languages.
+
+- company: StepStone Services
+  position: ColdFusion / PHP Developer
+  duration: Mar, 2018 &mdash; Jun, 2018
+  summary: Development in ColdFusion and PHP7 with Silex. I was in the team responsible for SEO tools.
+
 - company: StepStone Services
   position: Elixir Developer
-  duration: Jan, 2017 &mdash; Present
+  duration: Jan, 2017 &mdash; Feb, 2018
   summary: Development in Elixir & Phoenix of backend service for web and native clients. Backend application is built of REST API, channels for websocket connections, cron scheduler and RabbitMQ workers. Also we take advantage of Erlang VM for caching.
 
 - company: StepStone Services
   position: ColdFusion / PHP Developer
-  duration:  Mar, 2015 &mdash; Dec, 2016
-  summary: Development in ColdFusion, later in PHP7 with Silex. Backend service for web application, which is one of the biggest job boards in Europe.
+  duration: Mar, 2015 &mdash; Dec, 2016
+  summary: Development in ColdFusion, later in PHP7 with Silex. I was in the responsible for SEO tools and later in team that migrates company servers from Adobe ColdFusion to open source.
 
 - company: StepStone Services
   position: Quality Assurance Intern
-  duration:   Jul, 2014- Feb, 2015
+  duration: Jul, 2014 &mdash; Feb, 2015
   summary: Manual and automated tests. I was also responsible for dashing application in Ruby.
 
 - company: IT Progres
   position: Helpdesk Support
-  duration:   Jul, 2013
+  duration: Jul, 2013
   summary: Fixing small issues in software and hardware.
