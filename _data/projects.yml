@@ -1,6 +1,16 @@
+- project: Hotel Management System
+  role: PHP Developer / Devops
+  duration: Jul 2018 &mdash; Present
+  description: Developing in existing system, adding features and bugfixes. Also taking care of deployment and introducing continous integration.
+
+- project: SEO Project
+  role: ColdFusion / PHP Developer
+  duration: Mar 2018 &mdash; Jun 2018
+  description: Making improvements and adjustments in the existing SEO project.
+
 - project: Instant Messaging Platform
   role: Main Elixir Developer
-  duration: Jan 2017 &mdash; Present
+  duration: Jan 2017 &mdash; Feb 2018
   description: Backend for instant messaging platform for web and native clients. REST endpoints for account management, websocket connections for messaging.
 
 - project: turn_the_page
