@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Patryk Jakub Nowak"
-resume_title:                   "Backend Developer"
+resume_title:                   "Remote Backend Developer"
 resume_contact_email:           "patryk_nowak@yahoo.pl"
 resume_contact_telephone:       "+48 570 012 280"
 resume_contact_address:         "Niepodleglosci 97a, Wieliszew, POLAND"
@@ -33,17 +33,16 @@ resume_header_intro: "<p>I'm Backend Developer, that strives to develop efficien
 
                         <p>Yet I could code also in:</p>
                       <ul>
-                        <li>Ruby</li>
-                        <li>Rails</li>
-                        <li>Javascript</li>
-                        <li>Express</li>
+                        <li>Ruby (with / without Rails)</li>
+                        <li>Javascript (with / without Express)</li>
+                        <li>And nearly everything :) </li>
                       </ul>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "no"
+resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
