@@ -1,7 +1,7 @@
 - company: Sirvoy Ltd
   position: Backend Developer
   duration: Jul, 2018 &mdash; Present
-  summary: Client to whom I'm fully dedicated right now. I'm developing in PHP 7.3 and Symfony. Also I'm responsible for scripting - I introduced Python scripts and Docker environment.
+  summary: Client to whom I'm fully dedicated right now. I'm developing in PHP 8.4 and Symfony. Also I'm responsible for tooling, CI and security - I introduced Python scripts and Docker environment.
   stack: PHP, Symfony, Composer, Python, Git, AWS, Docker
 
 - company: Axoncode
